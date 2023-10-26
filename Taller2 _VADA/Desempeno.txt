@@ -1,1 +1,0 @@
-Las utilidades principales del ISCB son: gestion de cambios, colaboracion, revertir cambios, auditoria de cambios y gesion de versiones.  

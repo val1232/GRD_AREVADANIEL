@@ -1,4 +1,4 @@
 El hacking etico es una practica que consiste en utlizar habilidades y conocimientos en sistemas infromaticos y de red para ayudar a las organizaciones a probar sus mecanismos y procemdimientos de seguridad con el fin de identificar debilidades y/o vulnerabilidades.
 
 Algunas de las herramientas de software empleadas para realizar hacking etico 
-son: Nmap, Nessus, Metasploit, Medusa, etc.. 
+son: Nmap, Nessus, Metasploit, Medusa, etc... 

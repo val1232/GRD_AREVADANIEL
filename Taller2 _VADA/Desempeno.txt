@@ -1,1 +1,2 @@
-Las utilidades principales del ISCB son: gestion de cambios, colaboracion, revertir cambios, auditoria de cambios y gesion de versiones.  
+Las utilidades principales del ISCB son: gestion de cambios, colaboracion, revertir cambios, auditoria de cambios y gesion de versiones.
+El sistema de control de versiones es una herramienta que ayuda a los desarrolladores a rastrear y gestionar los cambios en el codigo de software a lo largo del tiempo" 

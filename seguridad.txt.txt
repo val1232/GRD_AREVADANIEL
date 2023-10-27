@@ -2,4 +2,4 @@ El hacking etico es una practica que consiste en utlizar habilidades y conocimie
 
 Algunas de las herramientas de software empleadas para realizar hacking.
 Valeria Arevalo Manquillo
-Michael Daniel Diosa Castillo
+	Michael Daniel Diosa Castillo.
